@@ -4,7 +4,7 @@ This repository contains a Simulink model of a DC-DC converter regulated using a
 
 ---
 
-## ⚙️ Model Description
+## Model Description
 
 The system models a bidirectional DC-DC converter controlled using an SMC-based duty cycle generator implemented as a MATLAB function block. The control law computes the duty cycle based on the real-time system states: input voltage (`Vin`), output voltage (`Vo`), inductor current (`il`), and output current (`io`). It incorporates converter parameters such as inductance (`L`) and capacitance (`C`) and uses control gains (`α₂/α₁` and `α₃/α₁`) to define and enforce the sliding surface.
 
