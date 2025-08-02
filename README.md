@@ -1,5 +1,4 @@
 # Sliding-Mode-Controlled-DC-DC-Converter
-# Sliding Mode Controlled DC-DC Converter (Simulink)
 
 This repository contains a Simulink model of a DC-DC converter regulated using a **Sliding Mode Controller (SMC)**. Sliding mode control is a robust, nonlinear control method that ensures fast dynamic response and high disturbance rejection, making it well-suited for power electronic converters in real-world applications like electric vehicles, renewable energy systems, and industrial power supplies.
 
